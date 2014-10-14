@@ -1,0 +1,9 @@
+{
+  "name": "skeleton init",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "latest",
+    "backbone": "latest",
+    "underscore": "latest",
+  }
+}
