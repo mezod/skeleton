@@ -21,7 +21,7 @@ Using this skeleton for your project is fairly simple:
 
 You are good to go!
 
-# Blog post on how was this skeleton built
+# Blog post on how this skeleton was built
 
 # multikanban
 
