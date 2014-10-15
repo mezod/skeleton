@@ -23,6 +23,8 @@ You are good to go!
 
 # Blog post on how this skeleton was built
 
+[Skeleton for a Backbone, Marionette application using Require.js, Bower, Grunt and LESS](http://blog.joanboixados.com/skeleton-for-a-backbone-marionette-application-using-require-js-bower-grunt-and-less/) (15/10/2014)
+
 # Features
 - Bower
 - Node
