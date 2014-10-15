@@ -6,6 +6,7 @@
     "backbone": "latest",
     "underscore": "latest",
     "requirejs": "~2.1.15",
-    "marionette": "~2.2.1"
+    "marionette": "~2.2.1",
+    "bootstrap": "~3.2.0"
   }
 }

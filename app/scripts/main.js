@@ -8,17 +8,17 @@ require.config({
     'backbone.marionette': 'vendor/backbone.marionette/lib/core/backbone.marionette.js',
   },
   shim: {
-  underscore: {
-    exports: '_'
-  },
-  backbone: {
-    exports: 'Backbone',
-    deps: ['jquery', 'underscore']
-  },
-  marionette: {
-    exports: 'Backbone.Marionette',
-    deps: ['backbone']
-  }
+    underscore: {
+      exports: '_'
+    },
+    backbone: {
+      exports: 'Backbone',
+      deps: ['jquery', 'underscore']
+    },
+    marionette: {
+      exports: 'Backbone.Marionette',
+      deps: ['backbone']
+    }
   },
   deps: ['jquery', 'underscore']
 });
