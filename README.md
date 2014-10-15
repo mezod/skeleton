@@ -23,7 +23,20 @@ You are good to go!
 
 # Blog post on how this skeleton was built
 
-# multikanban
+# Features
+- Bower
+- Node
+- npm
+- RequireJS
+- jQuery
+- Underscore
+- Backbone
+- Marionette
+- Bootstrap
+- LESS
+- Grunt
+
+# Apps using this skeleton
 
 My [multikanban](https://github.com/mezod/multikanban) app is based on this skeleton.
 
